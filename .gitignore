@@ -16,3 +16,6 @@
 
 # npm
 node_modules/
+
+# other
+.DS_store
